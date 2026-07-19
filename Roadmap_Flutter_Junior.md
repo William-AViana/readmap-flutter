@@ -24,9 +24,9 @@
 
 ## Dart
 - [x] Sintaxe
-- [ ] POO
-- [ ] Null Safety
-- [ ] Collections
+- [] POO
+- [X] Null Safety
+- [x] Collections
 - [ ] Generics
 - [ ] Async/Await
 - [ ] Futures

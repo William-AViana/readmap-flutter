@@ -25,6 +25,22 @@
 ## Dart
 - [x] Sintaxe
 - [] POO
+    │
+    ├── 1. [ ] Classes
+    ├── 2. [ ] Objetos
+    ├── 3. [ ] Atributos
+    ├── 4. [ ] Métodos
+    ├── 5. [ ] Construtores
+    ├── 6. [ ] Encapsulamento
+    ├── 7. [ ] Getters e Setters
+    ├── 8. [ ] Herança
+    ├── 9. [ ] Classes Abstratas
+    ├── 10. [ ] Interfaces
+    ├── 11. [ ] Mixins
+    ├── 12. [ ] Polimorfismo
+    ├── 13. [ ] Generics
+    ├── 14. [ ] Extension Methods
+    └── 15. [ ] Boas práticas
 - [X] Null Safety
 - [x] Collections
 - [ ] Generics
@@ -81,6 +97,20 @@
 - [ ] AAB
 - [ ] Play Store
 
+## Estrutura Básica
+lib/
+│
+├── main.dart
+├── screens/
+├── widgets/
+├── models/
+├── services/
+├── repositories/
+├── controllers/
+├── providers/
+├── utils/
+└── theme/
+  
 ## Projetos
 - [ ] ToDo
 - [ ] Filmes

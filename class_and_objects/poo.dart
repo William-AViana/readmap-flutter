@@ -1,8 +1,8 @@
 // This is a simple class definition for a car. It currently does not have any properties or methods defined.
 class Car {
-  String model;
+  late String model;
 
-  int speed;
+  late int speed;
 
   void start() {
     print("The car has started.");

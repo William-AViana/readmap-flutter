@@ -1,4 +1,4 @@
-int age = 20
+int age = 20;
 
 // This is a simple if-else condition in Dart. It checks if the age is greater than or equal to 18. If true, it prints "You are an adult." Otherwise, it prints "You are a minor."
 void main() {

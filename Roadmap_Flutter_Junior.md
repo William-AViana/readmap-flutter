@@ -24,10 +24,10 @@
 
 ## Dart
 - [x] Sintaxe
-- [] POO
+- [X] POO
     │
-    ├── 1. [ ] Classes
-    ├── 2. [ ] Objetos
+    ├── 1. [x] Classes
+    ├── 2. [x] Objetos
     ├── 3. [ ] Atributos
     ├── 4. [ ] Métodos
     ├── 5. [ ] Construtores
